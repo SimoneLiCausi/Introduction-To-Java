@@ -1,0 +1,9 @@
+package co.develhope.introduction;
+
+public class Start {
+    public class Main {
+        public static void Main(String[] args) {
+            System.out.println("Hello develhope java student 26 November 1996");
+        }
+    }
+}
